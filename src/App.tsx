@@ -19,7 +19,7 @@ function App() {
     <>
       <header className="max-h-72  font-bold px-4 py-8 bg-gradient-to-r from-[#5DADE2] via-[#3498DB] to-[#2E86C1]  text-white">
         <h1 className="uppercase text-center font-black text-4xl text-white">
-          Budget Tracker
+          Budget Tracker By Reh
         </h1>
       </header>
 
